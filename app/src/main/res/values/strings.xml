@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application4</string>
+    <string name="name">Name</string>
+    <string-array name="oprand_array">
+        <item>Sum</item>
+        <item>Subtraction</item>
+        <item>Division</item>
+        <item>Multiplication</item>
+    </string-array>
+</resources>
